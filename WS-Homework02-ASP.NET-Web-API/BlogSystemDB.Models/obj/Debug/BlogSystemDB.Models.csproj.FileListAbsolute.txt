@@ -1,0 +1,6 @@
+D:\VSProjects\WS-Homework02-ASP.NET-Web-API\BlogSystemDB.Models\bin\Debug\BlogSystemDB.Models.dll.config
+D:\VSProjects\WS-Homework02-ASP.NET-Web-API\BlogSystemDB.Models\bin\Debug\BlogSystemDB.Models.dll
+D:\VSProjects\WS-Homework02-ASP.NET-Web-API\BlogSystemDB.Models\bin\Debug\BlogSystemDB.Models.pdb
+D:\VSProjects\WS-Homework02-ASP.NET-Web-API\BlogSystemDB.Models\obj\Debug\BlogSystemDB.Models.dll
+D:\VSProjects\WS-Homework02-ASP.NET-Web-API\BlogSystemDB.Models\obj\Debug\BlogSystemDB.Models.pdb
+D:\VSProjects\WS-Homework02-ASP.NET-Web-API\BlogSystemDB.Models\obj\Debug\BlogSystemDB.Models.csprojResolveAssemblyReference.cache

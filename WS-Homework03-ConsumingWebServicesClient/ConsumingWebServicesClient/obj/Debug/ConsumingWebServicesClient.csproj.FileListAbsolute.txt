@@ -1,0 +1,9 @@
+D:\VSProjects\WS-Homework03-ConsumingWebServicesClient\ConsumingWebServicesClient\obj\Debug\ConsumingWebServicesClient.csprojResolveAssemblyReference.cache
+D:\VSProjects\WS-Homework03-ConsumingWebServicesClient\ConsumingWebServicesClient\bin\Debug\ConsumingWebServicesClient.exe.config
+D:\VSProjects\WS-Homework03-ConsumingWebServicesClient\ConsumingWebServicesClient\bin\Debug\ConsumingWebServicesClient.exe
+D:\VSProjects\WS-Homework03-ConsumingWebServicesClient\ConsumingWebServicesClient\bin\Debug\ConsumingWebServicesClient.pdb
+D:\VSProjects\WS-Homework03-ConsumingWebServicesClient\ConsumingWebServicesClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\VSProjects\WS-Homework03-ConsumingWebServicesClient\ConsumingWebServicesClient\bin\Debug\Newtonsoft.Json.dll
+D:\VSProjects\WS-Homework03-ConsumingWebServicesClient\ConsumingWebServicesClient\bin\Debug\System.Net.Http.Formatting.xml
+D:\VSProjects\WS-Homework03-ConsumingWebServicesClient\ConsumingWebServicesClient\obj\Debug\ConsumingWebServicesClient.exe
+D:\VSProjects\WS-Homework03-ConsumingWebServicesClient\ConsumingWebServicesClient\obj\Debug\ConsumingWebServicesClient.pdb

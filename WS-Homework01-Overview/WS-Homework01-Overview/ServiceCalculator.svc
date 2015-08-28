@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WS_Homework01_Overview.ServiceCalculator" CodeBehind="ServiceCalculator.svc.cs" %>

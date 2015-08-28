@@ -1,0 +1,6 @@
+D:\VSProjects\WS-Homework01-Overview\WS-Homework01-Overview\bin\WS-Homework01-Overview.dll.config
+D:\VSProjects\WS-Homework01-Overview\WS-Homework01-Overview\bin\WS-Homework01-Overview.dll
+D:\VSProjects\WS-Homework01-Overview\WS-Homework01-Overview\bin\WS-Homework01-Overview.pdb
+D:\VSProjects\WS-Homework01-Overview\WS-Homework01-Overview\obj\Debug\Problem.1-DistanceCalculator.csprojResolveAssemblyReference.cache
+D:\VSProjects\WS-Homework01-Overview\WS-Homework01-Overview\obj\Debug\WS-Homework01-Overview.dll
+D:\VSProjects\WS-Homework01-Overview\WS-Homework01-Overview\obj\Debug\WS-Homework01-Overview.pdb

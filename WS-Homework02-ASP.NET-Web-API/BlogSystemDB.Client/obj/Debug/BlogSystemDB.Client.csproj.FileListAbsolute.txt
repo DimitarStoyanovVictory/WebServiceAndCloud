@@ -1,0 +1,12 @@
+D:\VSProjects\WS-Homework02-ASP.NET-Web-API\BlogSystemDB.Client\bin\Debug\BlogSystemDB.Client.exe.config
+D:\VSProjects\WS-Homework02-ASP.NET-Web-API\BlogSystemDB.Client\obj\Debug\BlogSystemDB.Client.csprojResolveAssemblyReference.cache
+D:\VSProjects\WS-Homework02-ASP.NET-Web-API\BlogSystemDB.Client\bin\Debug\BlogSystemDB.Client.exe
+D:\VSProjects\WS-Homework02-ASP.NET-Web-API\BlogSystemDB.Client\bin\Debug\BlogSystemDB.Client.pdb
+D:\VSProjects\WS-Homework02-ASP.NET-Web-API\BlogSystemDB.Client\bin\Debug\BlogSystemDB.Data.dll
+D:\VSProjects\WS-Homework02-ASP.NET-Web-API\BlogSystemDB.Client\bin\Debug\BlogSystemDB.Models.dll
+D:\VSProjects\WS-Homework02-ASP.NET-Web-API\BlogSystemDB.Client\bin\Debug\EntityFramework.dll
+D:\VSProjects\WS-Homework02-ASP.NET-Web-API\BlogSystemDB.Client\bin\Debug\BlogSystemDB.Data.pdb
+D:\VSProjects\WS-Homework02-ASP.NET-Web-API\BlogSystemDB.Client\bin\Debug\BlogSystemDB.Models.pdb
+D:\VSProjects\WS-Homework02-ASP.NET-Web-API\BlogSystemDB.Client\bin\Debug\EntityFramework.xml
+D:\VSProjects\WS-Homework02-ASP.NET-Web-API\BlogSystemDB.Client\obj\Debug\BlogSystemDB.Client.exe
+D:\VSProjects\WS-Homework02-ASP.NET-Web-API\BlogSystemDB.Client\obj\Debug\BlogSystemDB.Client.pdb

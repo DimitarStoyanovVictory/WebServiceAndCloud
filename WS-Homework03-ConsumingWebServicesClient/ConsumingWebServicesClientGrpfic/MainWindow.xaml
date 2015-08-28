@@ -1,0 +1,26 @@
+﻿<Window x:Class="ConsumingWebServicesClientGrpfic.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ConsumingWebServicesClientGrpfic"
+        mc:Ignorable="d"
+        Title="Window2" Height="304" Width="1389.041">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="556*"/>
+            <ColumnDefinition Width="718*"/>
+            <ColumnDefinition Width="107*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="button" Content="Start command" HorizontalAlignment="Left" Margin="378,65,0,0" VerticalAlignment="Top" Width="158"/>
+        <Label x:Name="label" Content="Welcome to BattleShip game enter command to start: " HorizontalAlignment="Left" Margin="29,30,0,0" VerticalAlignment="Top" Width="295"/>
+        <TextBox x:Name="results" HorizontalAlignment="Left" Height="189" Margin="57,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="500" Grid.Column="1"/>
+        <TextBox x:Name="commandNameBox" HorizontalAlignment="Left" Height="23" Margin="329,33,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="260" TextChanged="textBox_TextChanged" Grid.ColumnSpan="2"/>
+        <Label x:Name="label1" Content="login - this command logs in the created account&#xD;&#xA;" HorizontalAlignment="Left" Margin="29,87,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="register - this command creates account" HorizontalAlignment="Left" Margin="29,61,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label3" Content="create-game - this command creates game&#xD;&#xA;&#xD;&#xA;" HorizontalAlignment="Left" Margin="29,111,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label4" Content="join-game - this command creates game&#xD;&#xA;" HorizontalAlignment="Left" Margin="29,138,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label5" Content="play - this command make a turn of a player in the game" HorizontalAlignment="Left" Margin="29,169,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label6" Content="If you wish to exit game write quit in command text box!&#xD;&#xA;" HorizontalAlignment="Left" Margin="174,212,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

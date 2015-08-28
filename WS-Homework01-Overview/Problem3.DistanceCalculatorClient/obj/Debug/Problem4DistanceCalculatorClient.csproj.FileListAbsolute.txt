@@ -1,0 +1,1 @@
+D:\VSProjects\WS-Homework01-Overview\Problem3.DistanceCalculatorClient\bin\Debug\Problem3.DistanceCalculatorClient.exe.config

@@ -1,0 +1,8 @@
+D:\VSProjects\WS-Homework01-Overview\Problem1.DistanceCalculatorClient\bin\Debug\Problem1.DistanceCalculatorClient.exe.config
+D:\VSProjects\WS-Homework01-Overview\Problem1.DistanceCalculatorClient\bin\Debug\Problem1.DistanceCalculatorClient.exe
+D:\VSProjects\WS-Homework01-Overview\Problem1.DistanceCalculatorClient\bin\Debug\Problem1.DistanceCalculatorClient.pdb
+D:\VSProjects\WS-Homework01-Overview\Problem1.DistanceCalculatorClient\bin\Debug\WS-Homework01-Overview.dll
+D:\VSProjects\WS-Homework01-Overview\Problem1.DistanceCalculatorClient\bin\Debug\WS-Homework01-Overview.pdb
+D:\VSProjects\WS-Homework01-Overview\Problem1.DistanceCalculatorClient\obj\Debug\Problem2.DistanceCalculatorClient.csprojResolveAssemblyReference.cache
+D:\VSProjects\WS-Homework01-Overview\Problem1.DistanceCalculatorClient\obj\Debug\Problem1.DistanceCalculatorClient.exe
+D:\VSProjects\WS-Homework01-Overview\Problem1.DistanceCalculatorClient\obj\Debug\Problem1.DistanceCalculatorClient.pdb
